@@ -13,7 +13,7 @@ The project was developed as part of my internship/work assignment to practice a
 
 ## Disclaimer
 
-This website was originally designed and developed by the organization/company.
+This website was originally designed and developed by the XCL Organization.
 
 My role was to recreate the front-end interface for learning, practice, and skill development purposes. All project content, branding, images, and information belong to their respective owners.
 
